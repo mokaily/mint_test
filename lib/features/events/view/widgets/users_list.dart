@@ -12,7 +12,7 @@ class UsersList extends StatefulWidget {
   State<UsersList> createState() => _UsersListState();
 }
 
-class _UsersListState extends State<UsersList> with SingleTickerProviderStateMixin {
+class _UsersListState extends State<UsersList> {
   int? expandedIndex;
   @override
   Widget build(BuildContext context) {
