@@ -1,0 +1,101 @@
+{
+  "categoryName": "B737NG Qualification",
+  "eventName": "Traffic Air Management training",
+  "slotGroups": [
+    {
+      "slotGroupName": "Instructor",
+      "resources": [
+        {
+          "firstName": "Pamelia",
+          "name": "Wynn",
+          "userId": "pywynn",
+          "photo": "https://mockmind-api.uifaces.co/content/human/108.jpg",
+          "certificates": []
+        },
+        {
+          "firstName": "Lucas",
+          "name": "Alfaro",
+          "userId": "lalfaro",
+          "photo": "https://mockmind-api.uifaces.co/content/human/104.jpg",
+          "certificates": []
+        },
+        {
+          "firstName": "Analisa",
+          "name": "Dudley",
+          "userId": "adudley",
+          "photo": "https://mockmind-api.uifaces.co/content/human/221.jpg",
+          "certificates": []
+        }
+      ]
+    },
+    {
+      "slotGroupName": "Trainee",
+      "resources": [
+        {
+          "firstName": "Mielle",
+          "name": "Johnson",
+          "userId": "mjohnson",
+          "photo": "https://mockmind-api.uifaces.co/content/human/151.jpg",
+          "certificates": []
+        },
+        {
+          "firstName": "Lucas",
+          "name": "Vasces",
+          "userId": "lalfaro",
+          "photo": "https://mockmind-api.uifaces.co/content/human/85.jpg",
+          "certificates": []
+        }
+      ]
+    },
+    {
+      "slotGroupName": "Observer",
+      "resources": [
+        {
+          "firstName": "Aarav",
+          "name": "Patel",
+          "userId": "apatel",
+          "photo": "https://mockmind-api.uifaces.co/content/human/125.jpg",
+          "certificates": [
+            "AvSafety seminar",
+            "Flight instruments",
+            "Flight simulator"
+          ]
+        },
+        {
+          "firstName": "Veri",
+          "name": "Setiawan",
+          "userId": "vsetiawan",
+          "photo": "https://uifaces.co/our-content/donated/AW-rdW1G.jpg",
+          "certificates": []
+        }
+      ]
+    },
+    {
+      "slotGroupName": "Administration",
+      "resources": [
+        {
+          "firstName": "John",
+          "name": "Doe",
+          "userId": "jdoe",
+          "photo": "https://mockmind-api.uifaces.co/content/human/22.jpg",
+          "certificates": [
+            "MBA",
+            "PMP",
+            "CBAP"
+          ]
+        },
+        {
+          "firstName": "Marie",
+          "name": "Curie",
+          "userId": "mcurie",
+          "photo": "https://mockmind-api.uifaces.co/content/human/11.jpg",
+          "certificates": [
+            "MBA",
+            "PMP",
+            "CBAP"
+          ]
+        }
+      ]
+    }
+  ]
+}
